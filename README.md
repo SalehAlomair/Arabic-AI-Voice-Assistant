@@ -1,5 +1,7 @@
 # Arabic-AI-Voice-Assistant
 
+<img width="702" height="582" alt="image" src="https://github.com/user-attachments/assets/88fcc608-aeba-4559-b155-420c7af59006" />
+
 A smart voice assistant that understands Arabic speech, processes it using AI, and replies with natural Arabic voice. Built with Python to provide an interactive experience for Arabic speakers.
 
 ---
